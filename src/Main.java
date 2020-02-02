@@ -12,5 +12,6 @@ public class Main {
         double b = sc.nextDouble();
 
         double result = calc1.calculation(a,b);
+        sc.close();
     }
 }
